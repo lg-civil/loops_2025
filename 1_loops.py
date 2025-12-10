@@ -29,19 +29,19 @@ for subject in subjects:
         continue
     print(subject)
 
-list1000 = list(range(1, 1001))
+# list1000 = list(range(1, 1001))
 
-for number in list1000:
-    if number > 599:
-        break
-    print(number)
+# for number in list1000:
+#     if number > 599:
+#         break
+#     print(number)
 
-list100 = list(range(1,1001))
+# list100 = list(range(1,1001))
 
-for numbers in list100:
-    if 300 <= numbers <= 500:
-        continue
-    print(numbers)
+# for numbers in list100:
+#     if 300 <= numbers <= 500:
+#         continue
+#     print(numbers)
 
 
 
