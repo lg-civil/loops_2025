@@ -79,7 +79,7 @@ for number in numbers:
 print("total: " , total)
 
 
-new_numbers = list(range(1, 260001))
+new_numbers = list(range(1, 261))
 total_1 = 0
 # this creates a list of numbers 1from 1 to 260
 # Challenge: sum up all numbers from 1 to 260
